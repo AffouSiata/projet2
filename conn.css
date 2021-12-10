@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    
+}
+
+.resp{
+    width: 950px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+h1{
+    font-family: 'Crete Round',serif;
+    font-size: 45px;
+    color: brown;
+}
+header h1{
+   
+    float: left;
+    margin-top: 40px;
+}
+header{
+    height: 150px;
+}
+header nav {
+    float: right;
+    margin-top :60px;
+
+}
+header nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    font-size: 30px;
+    margin-right: 90px;
+}
+header nav ul li a{
+    text-decoration: none;
+    color:brown;
+}
+header nav ul li a:hover{
+    
+  color: black;
+}
+.formulaire{
+    height: 900px;
+}
+.contenu{
+    height: 900px;
+    background-color: darkgoldenrod;
+}
+.interne{
+    height: 500px;
+    background-color: darkgreen;
+    padding: auto;
+}
